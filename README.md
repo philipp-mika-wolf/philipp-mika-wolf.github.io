@@ -1,5 +1,3 @@
-# philipp-mika-wolf.github.io
-
 <!DOCTYPE html>
 <html>
 <body>
