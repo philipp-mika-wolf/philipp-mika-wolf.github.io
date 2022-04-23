@@ -6,8 +6,14 @@ excerpt: 'In this paper we studied the phase transition of ultrathin Ni silicide
 date: 2022-02-21
 venue: 'Small'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/smll.202106093'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'P. M. Wolf, E. Pitthan, Z. Zhang, C. Lavoie, T. T. Tran, and D. Primetzhofer, "Direct Transition
+from Ultrathin Orthorhombic Dinickel Silicides to Epitaxial Nickel Disilicide Revealed by In Situ
+Synthesis and Analysis" <i>Small</i>, 2022, 18, 2106093.'
 ---
 
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/smll.202106093)
+
+Recommended citation: P. M. Wolf, E. Pitthan, Z. Zhang, C. Lavoie, T. T. Tran, and D. Primetzhofer, "Direct Transition
+from Ultrathin Orthorhombic Dinickel Silicides to Epitaxial Nickel Disilicide Revealed by In Situ
+Synthesis and Analysis" <i>Small</i>, 2022, 18, 2106093.
