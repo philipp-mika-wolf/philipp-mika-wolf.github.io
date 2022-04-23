@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Philipp Mika Wolf"
-  avatar           : "me.jpeg" #"profile.png"
+  avatar           : "me.jpg" #"profile.png"
   bio              : "PhD student in the ion physics group at Uppsala University"
   location         : "Uppsala, Sweden"
   employer         :
