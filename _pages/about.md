@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Philipp Wolf"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 I am a PhD student at Uppsala University where I am part of the ion physics group. Before I started my PhD studies in the fall of 2020, I received a M.Sc. from Uppsala University and a B.Sc. from the Karlsruher Institute of Technology.
 
