@@ -13,7 +13,3 @@ Synthesis and Analysis" <i>Small</i>, 2022, 18, 2106093.'
 
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1002/smll.202106093)
-
-Recommended citation: P. M. Wolf, E. Pitthan, Z. Zhang, C. Lavoie, T. T. Tran, and D. Primetzhofer, "Direct Transition
-from Ultrathin Orthorhombic Dinickel Silicides to Epitaxial Nickel Disilicide Revealed by In Situ
-Synthesis and Analysis" <i>Small</i>, 2022, 18, 2106093.
