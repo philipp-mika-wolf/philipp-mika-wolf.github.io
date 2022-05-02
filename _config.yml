@@ -83,7 +83,7 @@ author:
   name             : "Philipp Mika Wolf"
   avatar           : "me.jpg" #"profile.png"
   bio              : "PhD Student in the Ion Physics Group at Uppsala University"
-  location         : "Uppsala, Sweden"
+  location         : #"Uppsala, Sweden"
   employer         : "Uppsala University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=de&user=fYMtorMAAAAJ"
