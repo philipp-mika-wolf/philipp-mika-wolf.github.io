@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Uppsala University where I am part of the [ion physics group](https://www.physics.uu.se/research/applied-nuclear-physics/groups/ion-physics/). Before I started my PhD studies in the fall of 2020, I studied physics at the Karlsruher Institute of Technology and at Uppsala University. My main PhD supervisor is Prof. Daniel Primetzhofer with the co-supervisors being Prof. Zhen Zhang, Tuan T. Tran, and Eduardo Pitthan.
+I am a PhD student at Uppsala University where I am part of the [ion physics group](https://www.physics.uu.se/research/applied-nuclear-physics/groups/ion-physics/). Before I started my PhD studies in the fall of 2020, I studied physics at the Karlsruher Institute of Technology and at Uppsala University. My main PhD supervisor is Prof. Daniel Primetzhofer with the co-supervisors being Prof. Zhen Zhang, Tuan T. Tran, and Eduardo Pitthan. Here you can check my [full CV](https://github.com/philipp-mika-wolf/philipp-mika-wolf.github.io/blob/main/assets/CV.pdf).
 
 # Research Interests
 
