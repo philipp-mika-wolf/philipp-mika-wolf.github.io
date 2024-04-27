@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+You can also find my publications on [google scholar](https://scholar.google.com/citations?user=fYMtorMAAAAJ&hl=en) or [semantic scholar](https://www.semanticscholar.org/author/Philipp-M.-Wolf/51167965).
+
 1. P. M. Wolf et al., “An in situ ToF-LEIS characterization of the surface of Ti-based thin films under oxygen exposure and at elevated temperatures,” Applied Surface Science, vol. 638, p. 158076, Nov. 2023, doi: [10.1016/j.apsusc.2023.158076](https://doi.org/10.1016/j.apsusc.2023.158076).
 1. J. Shams-Latifi, E. Pitthan, P. M. Wolf, and D. Primetzhofer, “Experimental electronic stopping cross-section of tungsten bulk and sputter-deposited thin films for slow protons, deuterons and helium ions,” Nuclear Materials and Energy, vol. 36, p. 101491, Sep. 2023, doi: [10.1016/j.nme.2023.101491](https://doi.org/10.1016/j.nme.2023.101491).
 1. P. M. Wolf, E. Pitthan, Z. Zhang, C. Lavoie, T. T. Tran, and D. Primetzhofer, “Direct Transition from Ultrathin Orthorhombic Dinickel Silicides to Epitaxial Nickel Disilicide Revealed by In Situ Synthesis and Analysis,” Small, vol. 18, no. 14, p. 2106093, 2022, doi: [10.1002/smll.202106093](https://doi.org/10.1002/smll.202106093).
