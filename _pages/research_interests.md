@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Research Interests"
+permalink: /research_interests/
+author_profile: true
+---
+
+{% include base_path %}
+
 # Research Interests
 ## Transition Metal Silicides
 Due to their low resistivity, transition metal silicides play a decisive role as contact layers and diffusion barriers between semiconductor devices and interconnects in integrated circuits. Continued reduction in size of CMOS devices and the associated decrease in thickness of the silicide layer calls for methods with high sensitivity to the outermost atomic layers to investigate potential differences in phase transitions of ultrathin films as compared to thicker films. That's were the ToF-LEIS method comes in, which offers the possibility to study the formation and structure of transiton metal silicides in-situ and in a non-destructive way.
