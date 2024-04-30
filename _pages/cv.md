@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A detailed CV can be found [here](https://philipp-mika-wolf.github.io/assets/CV.pdf).
+
 Education
 ======
 * B.Sc. in Physics, Karlsruher Institute for Technology, 2018
