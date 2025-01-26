@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Uppsala University where I am part of the [ion physics group](https://www.physics.uu.se/research/applied-nuclear-physics/groups/ion-physics/). Before I started my PhD studies in the fall of 2020, I studied physics at the Karlsruher Institute of Technology and at Uppsala University. My main PhD supervisor is Prof. Daniel Primetzhofer with the co-supervisors being Prof. Zhen Zhang, Tuan T. Tran, and Eduardo Pitthan. Here you can check my [full CV](https://philipp-mika-wolf.github.io/assets/CV.pdf).
+I am a physicist at Uppsala University where I am part of the [Materials Physics Division](https://www.uu.se/en/department/physics-and-astronomy/research/materials-physics). Between September 2020 and December 2024 I completed my PhD studies in the same group where my main supervisor was Prof. Daniel Primetzhofer and my co-supervisors were Prof. Zhen Zhang, Dr. Tuan T. Tran, and Dr. Eduardo Pitthan. My dissertation is accesible [here](https://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-540635).
 
-My studies focus on the growth and modification of transition metal compounds and their in-situ analysis using Time-of-Flight Low Energy Ion Scattering (ToF-LEIS) as well as complementary ion beam techniques. ToF-LEIS, with typical ion energies of 0.5 to 10 keV, is capable of detecting both scattered ions and neutrals while being non-destructive due to the low beam-current. The high depth resolution enables us to study the composition and the structure of ultra-thin films with a mono-layer resolution. 
+Here you can check my [full CV](https://philipp-mika-wolf.github.io/assets/CV.pdf).
+
+My studies focus on the growth and modification of transition metal compounds and their *in-situ* analysis using Time-of-Flight Low Energy Ion Scattering (ToF-LEIS) as well as complementary ion beam techniques. Additionally I study the interaction of slow light ions with matter to improve our understanding of properties like electronic stopping and the interatomic potential. 
