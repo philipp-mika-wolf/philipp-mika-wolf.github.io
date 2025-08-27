@@ -12,18 +12,34 @@ author_profile: true
 - *2024* – “test 3” at **IBMM**, London, United Kingdom
 
 ## Conference Locations Map
+<div id="map"></div>
 
-<div id="map" style="height: 500px;"></div>
+<style>
+  /* Force proper map sizing */
+  #map {
+    height: 500px !important;
+    width: 100% !important;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+  }
+</style>
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+<!-- Load Leaflet CSS & JS -->
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet/dist/leaflet.css"
+/>
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
 <script>
-  var map = L.map('map').setView([20,0], 2); // World view
+  document.addEventListener("DOMContentLoaded", function () {
+    // Initialize map
+    var map = L.map("map").setView([20, 0], 2);
 
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap contributors'
-  }).addTo(map);
+    // Add OSM tiles
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      attribution: "© OpenStreetMap contributors"
+    }).addTo(map);
 
   // Add markers for each talk
   var talks = [
