@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Philipp Mika Wolf"
 title_separator          : "-"
 name                     : &name "Philipp Mika Wolf"
-description              : &description "PhD Student at Uppsala University"
+description              : &description "Postdoctoral Researcher at Uppsala University"
 url                      : https://philipp-mika-wolf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "philipp-mika-wolf/philipp-mika-wolf.github.io"
@@ -87,7 +87,7 @@ author:
   employer         : #"Uppsala University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=de&user=fYMtorMAAAAJ"
-  email            : "philipp.wolf@physics.uu.se"
+  email            : "philipp.wolf@angstrom.uu.se"
   researchgate     : "https://www.researchgate.net/profile/Philipp-Wolf"
   uri              :
   bitbucket        :
